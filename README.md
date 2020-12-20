@@ -1,5 +1,4 @@
 # Django-ChatApp
-Simple real-time asynchronous chat server, using Django channels, Redis and WebSockets.
 
 Simple real-time asynchronous chat server, using Redis as the backing store, WebSockets and Django channels.
 
